@@ -1,0 +1,5 @@
+crazyegg_src:
+  type: string
+  default: ""
+  description: 
+    en: "The src of the script, e.g. '//script.crazyegg.com/pages/scripts/0123/4567.js'."
