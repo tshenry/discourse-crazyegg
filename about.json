@@ -6,8 +6,8 @@
   "about_url": null,
   "modifiers": {
     "csp_extensions": [
-      "script_src: *.crazyegg.com",
-      "worker_src: blob:"
+      "script-src: *.crazyegg.com",
+      "worker-src: blob:"
     ]
   }
 }
